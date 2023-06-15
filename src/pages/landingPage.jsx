@@ -1,6 +1,5 @@
 import React from 'react';
 import Sidebar from '../components/Sidebar';
-import welcomeImage from '../images/welcome.jpg';
 import wee from '../images/wee.gif';
 import './landingPage.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
