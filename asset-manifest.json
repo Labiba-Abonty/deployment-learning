@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/deployment-learning/static/css/main.6dc4ee7a.css",
+    "main.js": "/deployment-learning/static/js/main.c19b9d69.js",
+    "static/js/787.88008f41.chunk.js": "/deployment-learning/static/js/787.88008f41.chunk.js",
+    "static/media/welcome.jpg": "/deployment-learning/static/media/welcome.a6063e41e1673577dd29.jpg",
+    "static/media/wee.gif": "/deployment-learning/static/media/wee.1fc34874d401aaf8f857.gif",
+    "static/media/biponon.png": "/deployment-learning/static/media/biponon.dd3f123dcbbe2fa020af.png",
+    "index.html": "/deployment-learning/index.html",
+    "main.6dc4ee7a.css.map": "/deployment-learning/static/css/main.6dc4ee7a.css.map",
+    "main.c19b9d69.js.map": "/deployment-learning/static/js/main.c19b9d69.js.map",
+    "787.88008f41.chunk.js.map": "/deployment-learning/static/js/787.88008f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc4ee7a.css",
+    "static/js/main.c19b9d69.js"
+  ]
+}
