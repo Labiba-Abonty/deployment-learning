@@ -1,0 +1,62 @@
+.main {
+     display: flex;
+     /* justify-content: center; */
+     /* align-items: center; */
+     height: 100vh;
+     /* Set the desired height */
+}
+
+.welcome-image {
+     width: 80vh;
+     /* Adjust the desired width */
+     height: auto;
+     /* Maintain aspect ratio */
+}
+
+.container {
+     margin-left: 50vh;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     height: 90%;
+
+     font-family: 'Inter', sans-serif;
+
+}
+
+.bold {
+     font-size: 18px;
+     font-weight: bold;
+     color: rgb(69, 77, 84);
+
+}
+
+.light {
+     font-size: 13px;
+     font-weight: 500;
+     color: rgb(95, 100, 100);
+
+}
+
+.button {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 10px 20px;
+     background-color: #eb1f6a;
+     /* Set your desired background color */
+     color: white;
+     /* Set the text color */
+     border: none;
+     border-radius: 20px;
+     /* Set the border-radius for rounded corners */
+     font-size: 16px;
+     cursor: pointer;
+     margin-top: 15px;
+}
+
+.button:hover {
+     background-color: #af154e;
+     /* Set the background color for hover state */
+}

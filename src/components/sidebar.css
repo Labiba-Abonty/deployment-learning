@@ -1,0 +1,56 @@
+.sidebar {
+     padding-left: 20px;
+     justify-content: left;
+
+}
+.toggle{
+     display: flex;
+     flex-direction: row;
+     padding: 0;
+
+}
+.hidden {
+     display: none;
+   }
+   
+
+.sidebar-menu {
+
+     display: flex;
+     flex-direction: column;
+     padding: 0;
+
+}
+
+.sidebar-menu button {
+
+     width: 180px;
+     height: 40px;
+     margin-bottom: 7px;
+     background-color: transparent;
+     font-size: 13px;
+     font-family: 'Inter', sans-serif;
+     font-weight: 500;
+     color: rgb(95, 100, 100);
+     border: none;
+     text-align: left;
+     cursor: pointer;
+
+}
+
+.sidebar-menu button:hover {
+     color: #e41c65;
+     
+     /* Set the background color for hover state */
+}
+
+.icon {
+     margin-right: 17px;
+
+}
+
+.logo {
+     width: 13vh;
+     margin-bottom: 6vh;
+     margin-left: 10px;
+}
