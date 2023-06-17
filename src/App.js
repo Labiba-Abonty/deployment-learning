@@ -2,7 +2,7 @@ import React from 'react'
 import LandingPage from './pages/landingPage'
 import './App.css'
 
-function App() {
+function App () {
   return (
     <div>
       <LandingPage />
@@ -11,4 +11,3 @@ function App() {
 }
 
 export default App
-
