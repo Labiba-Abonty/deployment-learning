@@ -1,8 +1,8 @@
-import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChartBar, faFileAlt, faMap, faPhone, faStore, faUpload, faTasks, faUser, faClipboardList, faChartLine, faDatabase, faUserMd } from '@fortawesome/free-solid-svg-icons';
-import './sidebar.css';
-import bip from '../images/biponon.png';
+import './sidebar.css'
+import bip from '../images/biponon.png'
 
 function Sidebar() {
      return (
@@ -62,4 +62,4 @@ function Sidebar() {
      );
 }
 
-export default Sidebar;
+export default Sidebar

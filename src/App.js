@@ -1,5 +1,5 @@
-import LandingPage from './pages/landingPage';
-import './App.css';
+import LandingPage from './pages/landingPage'
+import './App.css'
 
 function App() {
   return (
@@ -10,4 +10,4 @@ function App() {
     </div>
   );
 }
-export default App;
+export default App

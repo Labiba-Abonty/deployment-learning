@@ -1,9 +1,9 @@
 import React from 'react';
 import Sidebar from '../components/Sidebar';
 import wee from '../images/wee.gif';
-import './landingPage.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faPlus } from '@fortawesome/free-solid-svg-icons';
+import './landingPage.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPlus } from '@fortawesome/free-solid-svg-icons'
 
 function LandingPage() {
   return (
@@ -22,4 +22,4 @@ function LandingPage() {
   );
 }
 
-export default LandingPage;
+export default LandingPage
