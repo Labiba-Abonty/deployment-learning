@@ -1,24 +1,22 @@
 .sidebar {
   padding-left: 20px;
-  justify-content: left;
-
+  justify-content: flex-start;
 }
-.toggle{
-   display: flex;
-   flex-direction: row;
-   padding: 0;
 
+.toggle {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
 }
+
 .hidden {
   display: none;
-   }
-   
+}
 
 .sidebar-menu {
   display: flex;
   flex-direction: column;
   padding: 0;
-
 }
 
 .sidebar-menu button {
@@ -33,7 +31,6 @@
   border: none;
   text-align: left;
   cursor: pointer;
-
 }
 
 .sidebar-menu button:hover {
@@ -42,7 +39,6 @@
 
 .icon {
   margin-right: 17px;
-
 }
 
 .logo {
